@@ -18,6 +18,9 @@ Buttons layout for my programmable mice (not robots).
 | Lower-Mid     | `F11`     | `Shift`       | `Ctrl`            | `Alt-Space N`<sup>(1)</sup> |
 | Bottom        | `Win-Up`  | `Alt-Tab`     | `Win-Shift-Right` | `Win-Down`                  |
 
+_Outdated Layout_
+
+<img alt="outdated_preview" src="./imgs/redragon_legend_config_outdated.PNG" width="600" align="middle">
 
 ### Usage
 
@@ -57,6 +60,10 @@ Buttons layout for my programmable mice (not robots).
 | Upper-Mid     | `Ctrl-F5` | `Ctrl-PageUp` | `Ctrl-PageDown`   | `Alt-Space N`<sup>(1)</sup> |
 | Bottom        | `Win-Up`  | `Alt-Tab`     | `Win-Shift-Right` | `Win-Down`                  |
 
+
+_Outdated Layout_
+
+<img alt="outdated_preview" src="./imgs/redragon_impact_config_outdated.PNG" width="600" align="middle">
 
 ### Usage
 
