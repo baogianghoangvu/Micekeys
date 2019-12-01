@@ -5,7 +5,7 @@ WheelScrollLines=2
 MouseSensitivity=20
 DoubleClickSpeed=5
 UniversalScrollEnabled=0
-Acceleration=4
+Acceleration=2
 XYSensitivityEnabled=0
 MouseSpeedX=10
 MouseSpeedY=10
@@ -17,7 +17,7 @@ BreathState1=8
 LedColor1=255
 ANGLE=0
 LIFT=3
-DPI=2
+DPI=1
 DPICurrentX=14
 DPICurrentY=14
 DPIStageNum=5
@@ -86,14 +86,14 @@ KeyNumber=0
 MacroName=
 [ButtonAssigned_7]
 ButtonID=255
-ButtonFunc=27
+ButtonFunc=16
 KeyNumber=0
 MacroName=
 [ButtonAssigned_8]
 ButtonID=1
-ButtonFunc=7
-KeyNumber=4
-MacroName=
+ButtonFunc=100
+KeyNumber=1
+MacroName=MaximizeWindow
 [ButtonAssigned_9]
 ButtonID=1
 ButtonFunc=6

@@ -11,12 +11,12 @@ Buttons layout for my programmable mice (not robots).
 - Supported OS: Windows
 
 ### Side buttons Layout
-| Row \| Column | Front     | Front-Mid     | Back-Mid          | Back                        |
-| ------------- | --------- | ------------- | ----------------- | --------------------------- |
-| Top           | `Ctrl-W`  | `Alt-Right`   | `Alt-Left`        | `Ctrl-Shift-T`              |
-| Upper-Mid     | `Ctrl-F5` | `Ctrl-PageUp` | `Ctrl-PageDown`   | `Win-Tab`                   |
-| Lower-Mid     | `F11`     | `Shift`       | `Ctrl`            | `Alt-Space N`<sup>(1)</sup> |
-| Bottom        | `Win-Up`  | `Alt-Tab`     | `Win-Shift-Right` | `Win-Down`                  |
+| Row \| Column | Front                       | Front-Mid     | Back-Mid          | Back                        |
+| ------------- | --------------------------- | ------------- | ----------------- | --------------------------- |
+| Top           | `Ctrl-W`                    | `Alt-Right`   | `Alt-Left`        | `Ctrl-Shift-T`              |
+| Upper-Mid     | `Ctrl-F5`                   | `Ctrl-PageUp` | `Ctrl-PageDown`   | `Win-Tab`                   |
+| Lower-Mid     | `F11`                       | `Shift`       | `Ctrl`            | `Alt-Space N`<sup>(1)</sup> |
+| Bottom        | `Alt-Space X`<sup>(1)</sup> | `Alt-Tab`     | `Win-Shift-Right` | `Win-Down`                  |
 
 _Outdated Layout_
 
@@ -42,7 +42,7 @@ _Outdated Layout_
 
 #### Bottom Row
 - Mostly for manipulating screens
-- Front vs. Back: Maximize vs. Minimize window
+- Front vs. Back: Maximize vs. Restore down (Minimize) window
 - Front-Mid: Switch between windows (2 most recently active)
 - Back-Mid: Move window to another screen/monitor
 
