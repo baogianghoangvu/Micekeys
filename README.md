@@ -54,11 +54,11 @@ _Outdated Layout_
 - Supported OS: Windows
 
 ### Side buttons Layout
-| Row \| Column | Front     | Front-Mid     | Back-Mid          | Back                        |
-| ------------- | --------- | ------------- | ----------------- | --------------------------- |
-| Top           | `Ctrl-W`  | `Alt-Right`   | `Alt-Left`        | `Ctrl-Shift-T`              |
-| Upper-Mid     | `Ctrl-F5` | `Ctrl-PageUp` | `Ctrl-PageDown`   | `Alt-Space N`<sup>(1)</sup> |
-| Bottom        | `Win-Up`  | `Alt-Tab`     | `Win-Shift-Right` | `Win-Down`                  |
+| Row \| Column | Front                       | Front-Mid     | Back-Mid          | Back                        |
+| ------------- | --------------------------- | ------------- | ----------------- | --------------------------- |
+| Top           | `Ctrl-W`                    | `Alt-Right`   | `Alt-Left`        | `Ctrl-Shift-T`              |
+| Mid           | `Ctrl-F5`                   | `Ctrl-PageUp` | `Ctrl-PageDown`   | `Alt-Space N`<sup>(1)</sup> |
+| Bottom        | `Alt-Space X`<sup>(1)</sup> | `Alt-Tab`     | `Win-Shift-Right` | `Win-Down`                  |
 
 
 _Outdated Layout_
@@ -72,21 +72,21 @@ _Outdated Layout_
 - Middle 2 keys = Backward vs. Forward
 - Front vs. Back = Close tab vs. Reopen closed tab
 
-#### Upper-Mid Row
+#### Mid Row
 - Mostly for moving between tabs (in browser, IDE)
 - Middle 2 keys = Next vs. Previous tab position-wise<sup>(2)</sup>
 - Front-most = reload browser tab (refresh cache)
-- Back-most = Full screen vs. Fully-minimize window
+- Back-most = Fully-minimize window
 
 #### Bottom Row
-- Mostly for manipulating screens
-- Front vs. Back: Maximize vs. Minimize window
-- Front-Mid: Switch between windows (2 most recently active)
+- Mostly for alternating windows/monitors
+- Front vs. Back: Fully-maximize vs. Minimize window
+- Front-Mid: Switch between windows (most recently active)
 - Back-Mid: Move window to another screen/monitor
 
 ## Footnotes
 
-- (1) Macro: 20ms between keystrokes.
+- (1) [Max|Min]imize Macro: ↓Alt-0ms-↓Space-0ms-↑Alt-0ms-↑Space-150ms-↓[X|N]-0ms-↑[X|N]
 - (2) I prefer Ctrl-PageUp/Down (strictly position-wise) over Ctrl-(Shift)-Tab (chronological order in VSCode & Sublime Text, positional order in web browsers)
 
 ## Tudu
