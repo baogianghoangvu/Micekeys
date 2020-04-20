@@ -14,8 +14,8 @@ Buttons layout for my programmable mice (not robots).
 | Row \| Column | Front                       | Front-Mid     | Back-Mid          | Back                        |
 | ------------- | --------------------------- | ------------- | ----------------- | --------------------------- |
 | Top           | `Ctrl-W`                    | `Alt-Right`   | `Alt-Left`        | `Ctrl-Shift-T`              |
-| Upper-Mid     | `Ctrl-F5`                   | `Ctrl-PageUp` | `Ctrl-PageDown`   | `Win-Tab`                   |
-| Lower-Mid     | `F11`                       | `Shift`       | `Ctrl`            | `Alt-Space N`<sup>(1)</sup> |
+| Upper-Mid     | `Ctrl-F5`                   | `Ctrl-PageUp` | `Ctrl-PageDown`   | `Alt-F4`                    |
+| Lower-Mid     | `Alt`                       | `Shift`       | `Ctrl`            | `Alt-Space N`<sup>(1)</sup> |
 | Bottom        | `Alt-Space X`<sup>(1)</sup> | `Alt-Tab`     | `Win-Shift-Right` | `Win-Down`                  |
 
 _Outdated Layout_
@@ -33,12 +33,14 @@ _Outdated Layout_
 - Mostly for moving between tabs (in browser, IDE)
 - Middle 2 keys = Next vs. Previous tab position-wise<sup>(2)</sup>
 - Front-most = reload browser tab (refresh cache)
-- Back-most = Window task view
+- ~~Back-most = Window task view~~
+- **EXPERIMENTAL** Back = Close program, _Alt-F4 feels rather dangerous bc can't be easily undo-ed, but this button seems very rarely used so far (even with previous combo) and also a bit hard to reach, probably worth trying esp. for Surface Book where F-keys are a hassle_
 
 #### Lower-Mid Row
 - Supplementary keys
 - Middle 2 keys = Shift vs. Ctrl, to combo with Mouse Wheel (Shift-Scroll = Horizontal scrolling, Ctrl-Scroll = Zoom in/out)
-- Front vs. Back = Full screen vs. Fully-minimize window
+- ~~Front vs. Back = Full screen vs. Fully-minimize window~~
+- **EXPERIMENTAL** Front = Alt, _not too sure what to combo with but sometimes I felt I might as well have Alt together with Ctrl & Shift in this row_
 
 #### Bottom Row
 - Mostly for manipulating screens
@@ -86,8 +88,8 @@ _Outdated Layout_
 
 ## Footnotes
 
-- (1) [Max|Min]imize Macro: ↓Alt-0ms-↓Space-0ms-↑Alt-0ms-↑Space-150ms-↓[X|N]-0ms-↑[X|N]
 - (2) I prefer Ctrl-PageUp/Down (strictly position-wise) over Ctrl-(Shift)-Tab (chronological order in VSCode & Sublime Text, positional order in web browsers)
+- (1) [Max|Min]imize Macro: ↓Alt-0ms-↓Space-0ms-↑Alt-0ms-↑Space-200ms-↓[X|N]-0ms-↑[X|N]
 
 ## Tudu
 
