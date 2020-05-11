@@ -2,7 +2,7 @@
 Group=1
 PollingRate=2
 WheelScrollLines=1
-MouseSensitivity=20
+MouseSensitivity=6
 DoubleClickSpeed=5
 UniversalScrollEnabled=0
 Acceleration=1
@@ -82,7 +82,7 @@ MacroName=
 [ButtonAssigned_7]
 ButtonID=1
 ButtonFunc=100
-KeyNumber=1
+KeyNumber=0
 MacroName=Maximize
 [ButtonAssigned_8]
 ButtonID=1
@@ -132,7 +132,7 @@ MacroName=Minimize
 [ButtonAssigned_17]
 ButtonID=1
 ButtonFunc=100
-KeyNumber=0
+KeyNumber=1
 MacroName=Minimize
 [ButtonAssigned_18]
 ButtonID=1
